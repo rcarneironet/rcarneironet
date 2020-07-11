@@ -4,4 +4,4 @@
 - 🌱 I’m currently improving my skills around Cloud (mainly Azure and AWS).
 - 💬 Ask me about Software Design and/or Software Architecture.
 - 📫 How to reach me: @rcarneironet
-- ⚡ Fun fact: I enjoy playing games and being with family.
+- ⚡ Fun fact: I enjoy developing/playing games, being with family and some good beers!
